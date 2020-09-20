@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="PRESIPITASI" size="512.000000 512.000000" />
+    <ImageTarget name="INFILTRASI" size="512.000000 512.000000" />
+    <ImageTarget name="KONDENSASI" size="512.000000 512.000000" />
+    <ImageTarget name="SIKLUS_AIR" size="512.000000 512.000000" />
+    <ImageTarget name="TRANSPIRASI" size="512.000000 512.000000" />
+    <ImageTarget name="EVAPORASI" size="512.000000 512.000000" />
+  </Tracking>
+</QCARConfig>
